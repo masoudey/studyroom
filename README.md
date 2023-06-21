@@ -1,2 +1,2 @@
 # studyroom
-Python project for study room
+Django project for study room
